@@ -1,0 +1,2 @@
+# CF Test
+[![Codefresh build status]( https://g.codefresh.io/api/badges/pipeline/mandersen-cf-test/mandersen-cf%2Fcf-test%2Fcf-test?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWJkMjJmODg5Zjk0YTAxOGFlYzMyMWJk.a2ouLUhhto0o_xSNwkqpModJ9x0vcDdkJEv5WAFqp88&type=cf-1)]( https://g.codefresh.io/repositories/mandersen-cf/cf-test/builds?filter=trigger:build;branch:master;service:5bd235c69fd1f4b3d57b0ee9~cf-test)
